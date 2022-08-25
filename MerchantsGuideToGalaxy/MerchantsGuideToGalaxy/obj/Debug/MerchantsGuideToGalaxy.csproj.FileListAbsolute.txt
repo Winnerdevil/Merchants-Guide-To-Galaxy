@@ -1,0 +1,8 @@
+C:\Users\DNagar\source\repos\MerchantsGuideToGalaxy\MerchantsGuideToGalaxy\bin\Debug\MerchantsGuideToGalaxy.exe.config
+C:\Users\DNagar\source\repos\MerchantsGuideToGalaxy\MerchantsGuideToGalaxy\bin\Debug\MerchantsGuideToGalaxy.exe
+C:\Users\DNagar\source\repos\MerchantsGuideToGalaxy\MerchantsGuideToGalaxy\bin\Debug\MerchantsGuideToGalaxy.pdb
+C:\Users\DNagar\source\repos\MerchantsGuideToGalaxy\MerchantsGuideToGalaxy\obj\Debug\MerchantsGuideToGalaxy.csproj.AssemblyReference.cache
+C:\Users\DNagar\source\repos\MerchantsGuideToGalaxy\MerchantsGuideToGalaxy\obj\Debug\MerchantsGuideToGalaxy.csproj.SuggestedBindingRedirects.cache
+C:\Users\DNagar\source\repos\MerchantsGuideToGalaxy\MerchantsGuideToGalaxy\obj\Debug\MerchantsGuideToGalaxy.csproj.CoreCompileInputs.cache
+C:\Users\DNagar\source\repos\MerchantsGuideToGalaxy\MerchantsGuideToGalaxy\obj\Debug\MerchantsGuideToGalaxy.exe
+C:\Users\DNagar\source\repos\MerchantsGuideToGalaxy\MerchantsGuideToGalaxy\obj\Debug\MerchantsGuideToGalaxy.pdb
